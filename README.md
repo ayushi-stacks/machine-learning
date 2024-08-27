@@ -1,1 +1,1 @@
-﻿This project is a Movie Recommendation System built using Python in Google Colab. It recommends movies to users based on their preferences and viewing history using collaborative filtering and content-based filtering methods.
+..
